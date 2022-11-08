@@ -1,0 +1,66 @@
+body {
+	font-family: "Yu Gothic";
+}
+
+header {
+	background-color: #4169e1;
+	height: 80px;
+}
+
+.header-logo {
+	float: left;
+	color: #ffffff;
+	font-size: 30px;
+	padding: 20px 30px;
+}
+
+.main {
+	background-color: #ffffe0;
+	padding: 80px;
+}
+
+input,textarea {
+	width: 400px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 20px;
+	font-size: 18px;
+	border: 1px solid #dee7ec;
+}
+
+.top-wrapper span {
+	color: #ff0000;
+}
+
+.message-wrapper {
+	margin-top: 80px;
+}
+
+.message-wrapper li {
+
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+footer {
+	background-color: #4169e1;
+	height: 120px;
+	color: #ffffff;
+	padding: 20px 30px 30px 30px;
+}
+
+.footer-logo {
+	float: left;
+	font-size: 30px;
+}
+
+.footer-list {
+	float: right;
+}
+
+.footer-list li {
+	list-style: none;
+}
